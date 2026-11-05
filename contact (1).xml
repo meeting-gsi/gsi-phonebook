@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneBook>
+<DirectoryEntry>
+<Name>Дмитрий Холодов</Name>
+<Telephone>111</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Святослав Зубарев</Name>
+<Telephone>121</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Виктор Зырянов</Name>
+<Telephone>122</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Елена Шипова</Name>
+<Telephone>123</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Анна Баташева</Name>
+<Telephone>124</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Юлия Тосунова</Name>
+<Telephone>125</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Георгий Солонинко</Name>
+<Telephone>126</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Денис Некрасов</Name>
+<Telephone>127</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Владимир Уколов</Name>
+<Telephone>128</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Александр Царев</Name>
+<Telephone>129</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Бухгалтерия</Name>
+<Telephone>130</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Ованес Сеферян</Name>
+<Telephone>131</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Анастасия Саламатова</Name>
+<Telephone>132</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Константин Нестеров</Name>
+<Telephone>133</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Алексей Ануфриев</Name>
+<Telephone>134</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Ирина Кондрашова</Name>
+<Telephone>135</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Виолетта Кузнецова</Name>
+<Telephone>136</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Светлана Саяпина</Name>
+<Telephone>137</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Анжелика Ларина</Name>
+<Telephone>138</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Алексей Олейников</Name>
+<Telephone>201</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Совещание</Name>
+<Telephone>777</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Павел Кузнецов</Name>
+<Telephone>888</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Санаторий-1001</Name>
+<Telephone>1001</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Фишт-1002</Name>
+<Telephone>1002</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Ованес Сеферян - Архыз</Name>
+<Telephone>1700</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Марк Шимкин</Name>
+<Telephone>1701</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Алексей Батраков</Name>
+<Telephone>1702</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Алексей Котенко</Name>
+<Telephone>1703</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Екатерина Кулик</Name>
+<Telephone>1704</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Андрей Пасько</Name>
+<Telephone>1705</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Светлана Колбасенко</Name>
+<Telephone>1706</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Евгений Устинов</Name>
+<Telephone>1707</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Дарья Устинова</Name>
+<Telephone>1708</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Олег Береснев</Name>
+<Telephone>1709</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Александр Горюнов</Name>
+<Telephone>1710</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Роман Соловьёв</Name>
+<Telephone>1711</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Архыз-1017-УЧМ</Name>
+<Telephone>1717</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> Елена Усова</Name>
+<Telephone>9801</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> ГСИ-СПБ-Офис-02</Name>
+<Telephone>9802</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name> ГСИ-СПБ-Офис-03</Name>
+<Telephone>9803</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+<DirectoryEntry>
+<Name>Лиана Тамаева</Name>
+<Telephone>1718</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
+</PhoneBook>
